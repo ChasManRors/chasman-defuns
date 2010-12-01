@@ -1,0 +1,14 @@
+Create an Invoice from your Pomodoros
+
+There is a program called Vitamin-R which manages Pomodoros 
+
+You can create invoices from these pomodoros if you use Vitamin-R, Emacs, Ruby and a spreadsheet.
+
+See youtube video on how to do this http://www.youtube.com/cmmagid
+
+I assume you can visit the vitamin-r.el file and do a M-x eval-current-buffer to get the functions defined in your emacs.
+
+contact me with questions.
+
+cmmagid@gmail.com
+
