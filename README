@@ -6,7 +6,7 @@ You can create invoices from these pomodoros if you use Vitamin-R, Emacs, Ruby a
 
 See youtube video on how to do this http://www.youtube.com/cmmagid
 
-I assume you can visit the vitamin-r.el file and do a M-x eval-current-buffer to get the functions defined in your emacs.
+I assume you can visit the vitamin-r.el file and do a M-x eval-current-buffer to get the functions described in the video to be defined in your running emacs.
 
 contact me with questions.
 
